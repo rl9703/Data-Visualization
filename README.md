@@ -1,6 +1,6 @@
 # Data-Visualization
 
-1.PCA and tSNE: Explore the data and reduce the number of features by using dimensionality reduction techniques like PCA and TSNE and generate meaningful insights.
+1. PCA and tSNE: Explore the data and reduce the number of features by using dimensionality reduction techniques like PCA and TSNE and generate meaningful insights.
 
 There are 8 variables in the data:
 
